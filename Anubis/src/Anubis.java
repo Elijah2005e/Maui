@@ -23,7 +23,8 @@ class Anubis {
 			for(int j = 0; j < product[i].length; j++){
 				System.out.print( product[i][j]+" " );
 			}
-			System.out.println(); 
+			System.out.println();
+			System.out.println("Safe travels to you. ");
 			}
 		}
 	}
